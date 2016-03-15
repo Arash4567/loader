@@ -1,4 +1,4 @@
-Pure css loading animations.
+Pure css loading animations.[Live Demos](http://jovey-zheng.github.io/loader)  
 Inspiration from [loaders.css](https://github.com/ConnorAtherton/loaders.css) and [css-loaders](https://github.com/lukehaas/css-loaders).
 
 # Basic Usage
