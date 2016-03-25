@@ -1,4 +1,5 @@
-Pure css loading animations.[Live Demos](http://jovey-zheng.github.io/loader)
+Pure css loading animations.[Live Demos](http://jovey-zheng.github.io/loader)  
+
 Inspiration from [loaders.css](https://github.com/ConnorAtherton/loaders.css) and [css-loaders](https://github.com/lukehaas/css-loaders).
 
 # Basic Usage
@@ -19,4 +20,5 @@ Inspiration from [loaders.css](https://github.com/ConnorAtherton/loaders.css) an
 # Contributing
 
 Pull requests are welcome!  
+
 Create another animation file in `src/` and test it in `example/example.html`, then open it in a browser to see your animation running.
