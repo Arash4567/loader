@@ -22,3 +22,7 @@ Inspiration from [loaders.css](https://github.com/ConnorAtherton/loaders.css) an
 Pull requests are welcome!  
 
 Create another animation file in `src/` and test it in `example/example.html`, then open it in a browser to see your animation running.
+
+# License
+
+License under [MIT](https://github.com/jovey-zheng/loader/blob/master/LICENSE).
