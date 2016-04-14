@@ -1,5 +1,5 @@
 {
-  "name": "loader",
+  "name": "css-loading",
   "version": "1.0.0",
   "description": "Pure css loading animations.",
   "main": "loaders.min.css",

@@ -1,10 +1,23 @@
 ![loaders](./src/logo.png)
 
-Pure css loading animations.[Live Demos](http://jovey-zheng.github.io/loader)
+[![npm version](http://img.shields.io/npm/v/css-loading.svg)](https://www.npmjs.com/package/css-loading)
+[![npm downloads](http://img.shields.io/npm/dm/css-loading.svg)](https://www.npmjs.com/package/css-loading)
+
+Pure css loading animations.[Live Demos](http://jovey-zheng.github.io/loader).
 
 Inspiration from [loaders.css](https://github.com/ConnorAtherton/loaders.css) and [css-loaders](https://github.com/lukehaas/css-loaders).
 
-# Basic Usage
+
+## Install
+
+Install with npm:
+  ```
+  $ npm install --save-dev css-loading
+  ```
+
+or download [the Latest releases version(ZIP)](https://github.com/jovey-zheng/loader/archive/v1.0.0.zip).
+
+## Basic Usage
 
 1. Import:
 
@@ -19,12 +32,12 @@ Inspiration from [loaders.css](https://github.com/ConnorAtherton/loaders.css) an
   <div data-loader="circle"></div>
   ```
 
-# Contributing
+## Contributing
 
 Pull requests are welcome!
 
 Create another animation file in `src/` and test it in `example/example.html`, then open it in a browser to see your animation running.
 
-# License
+## License
 
 License under [MIT](https://github.com/jovey-zheng/loader/blob/master/LICENSE).
