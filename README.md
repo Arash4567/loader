@@ -26,6 +26,12 @@ or download [the Latest releases version(ZIP)](https://github.com/jovey-zheng/lo
   <link rel="stylesheet" href="loaders.min.css">
   ```
 
+  or require from `node_modules`:
+
+  ```js
+  import 'css-loading'
+  ```
+
 2. Create an element and add the attribute `data-loader`:
 
   ```html
