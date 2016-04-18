@@ -15,7 +15,7 @@ Install with npm:
   $ npm install --save-dev css-loading
   ```
 
-or download [the Latest releases version(ZIP)](https://github.com/jovey-zheng/loader/archive/v1.0.0.zip).
+or download [the Latest releases version(ZIP)](https://github.com/jovey-zheng/loader/archive/v1.2.0.zip).
 
 ## Basic Usage
 
