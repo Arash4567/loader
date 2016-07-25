@@ -1,7 +1,9 @@
 ![loaders](./src/logo.png)
 
 [![npm version](http://img.shields.io/npm/v/css-loading.svg)](https://www.npmjs.com/package/css-loading)
+[![bower version](https://img.shields.io/bower/v/css-loading.svg)](https://www.npmjs.com/package/css-loading)
 [![npm downloads](http://img.shields.io/npm/dm/css-loading.svg)](https://www.npmjs.com/package/css-loading)
+[![npm license](https://img.shields.io/npm/l/css-loading.svg)](https://github.com/jovey-zheng/loader/blob/master/LICENSE)
 
 Pure css loading animations. As long as only one element! [Live Demos](http://jovey-zheng.github.io/loader).
 
@@ -12,7 +14,12 @@ Inspiration from [loaders.css](https://github.com/ConnorAtherton/loaders.css) an
 
 Install with npm:
   ```
-  $ npm install --save-dev css-loading
+  $ npm install --save css-loading
+  ```
+
+install with bower:
+  ```
+  $ bower install --save css-loading
   ```
 
 or download [the Latest releases version(ZIP)](https://github.com/jovey-zheng/loader/archive/v1.4.0.zip).
