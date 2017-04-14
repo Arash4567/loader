@@ -1,13 +1,28 @@
-![loaders](./src/logo.png)
+<p align="center">
+  <a href="./src/logo.png">
+    <img src="./src/logo.png" />
+   </a>
+  <br/>
+  <a href="https://www.npmjs.com/package/css-loading">
+    <img src="http://img.shields.io/npm/v/css-loading.svg" />
+   </a>
+  <a href="https://www.npmjs.com/package/css-loading">
+    <img src="https://img.shields.io/bower/v/css-loading.svg" />
+   </a>
+  <a href="https://www.npmjs.com/package/css-loading">
+    <img src="http://img.shields.io/npm/dm/css-loading.svg" />
+   </a>
+  <a href="https://github.com/jovey-zheng/loader/blob/master/LICENSE">
+    <img src="https://img.shields.io/npm/l/css-loading.svg" />
+   </a>
+</p>
 
-[![npm version](http://img.shields.io/npm/v/css-loading.svg)](https://www.npmjs.com/package/css-loading)
-[![bower version](https://img.shields.io/bower/v/css-loading.svg)](https://www.npmjs.com/package/css-loading)
-[![npm downloads](http://img.shields.io/npm/dm/css-loading.svg)](https://www.npmjs.com/package/css-loading)
-[![npm license](https://img.shields.io/npm/l/css-loading.svg)](https://github.com/jovey-zheng/loader/blob/master/LICENSE)
-
-Pure css loading animations. As long as only one element! [Live Demos](http://jovey-zheng.github.io/loader).
-
-Inspiration from [loaders.css](https://github.com/ConnorAtherton/loaders.css) and [css-loaders](https://github.com/lukehaas/css-loaders).
+<p align="center">
+Pure css loading animations. As long as only one element! <a href="http://jovey-zheng.github.io/loader">Live Demos</a>.
+</p>
+<p align="center">
+Inspiration from <a href="https://github.com/ConnorAtherton/loaders.css">loaders.css</a> and <a href="https://github.com/lukehaas/css-loaders">css-loaders</a>.
+</p>
 
 
 ## Install
